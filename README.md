@@ -6,7 +6,7 @@
 
 
 
-Azuransi is a company landing page witch show the services provider by company
+AzFuel is a company landing page witch show the services provider by company
 and the workers in the company
 
 
