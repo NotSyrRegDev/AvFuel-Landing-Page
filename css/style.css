@@ -1,0 +1,59 @@
+#ul-flex li a { margin-right:2em !important; font-size: 18px !important; color: #fff !important;}
+#ul-flex li a:hover { background: #135fa6 !important;}
+#navbar-flex { background: #43a4a6 !important;}
+
+.my-row { position: relative ; width: 100%; display: flex; justify-content: space-between; color: #fff;}
+.flex-col {  align-items: flex-start !important;}
+.my-col-1-2 { position: relative; width: 46%;}
+.image-hero { flex-grow: 1;}
+.logo-small { max-height: 2.5rem; }
+.f-right { float: right !important; display: block;}
+.f-left { float: left !important; display: block !important; }
+
+.heading-prim { font-size: 2.4rem; color: #222; letter-spacing: 4px; line-height: 50%; font-family: 'Montserrat' , sans-serif; transform: skewY(-5deg) }
+
+.service-head { font-size: 1.4rem; color: #232426; font-family: 'Lato' , sans-serif; letter-spacing: 1px;}
+
+.bg-custom-service { background: #134351 !important; color: #fff !important;}
+.service-para { font-size: 0.9rem; color: #000;}
+.f-letter { color: #ddba0b;}
+.h-custom-service { font-size: 4.2rem; letter-spacing: -2px; font-family: 'Nunito' , sans-serif;}
+.sub-custom-service { font-size: 2.2rem; letter-spacing: 6px;  font-family: 'Nunito' , sans-serif;}
+.info-custom-service { font-family: 'Montserrat' , sans-serif; letter-spacing: 2px; font-size: 1rem; font-weight: 500;}
+.btn-custom-service { border-radius: 200px; background: transparent; color:#fff; padding: 8px 40px; border: #f2f2f2 solid; }
+.btn-custom-service-2 { border-radius: 200px; background: transparent; color:#111; padding: 8px 40px; border: #f2f2f2 solid; }
+.btn-custom-service-3 { border-radius: 200px; background: #111; color:#f2f2f2; padding: 8px 40px;  }
+
+.masel-line { width: 5px; height: 350px; background: #d8c425; }
+
+.card-single { background:  #f9f9f9; margin: 0 10px;}
+.h-card { font-size: 2.3rem; font-family: 'Montserrat' , sans-serif; color: #222;}
+.sub-card{ font-size: 1.2rem; font-family: 'Montserrat' , sans-serif; color: #222;}
+.sub-card:hover { background: #ffe833; color: #fff; display: inline;}
+.bg-contact-section { background: linear-gradient(rgba(0,0,0,0.3) , rgba(0,0,0,0.3)) , url('../images/diana-parkhouse-dBrKSWR-z1w-unsplash.jpg') center /cover no-repeat; height: 100vh; }
+.contact-area { width: 700px; background: #fff; height: 600px; margin: 0 4rem; border-radius: 12px; }
+.sub-contact-area { color: #ffe700; font-family: 'Montserrat'; font-weight: bold; font-size: 1.2rem; text-transform: uppercase;}
+.h-contact-area { color: #111; font-family: 'Montserrat'; font-size: 2.8rem; text-transform: capitalize;}
+
+
+.input-contact { width: 100%; border: none; border-bottom: 2px solid #333; margin: 0 30px; font-size: 1.2rem; font-family: 'Open_Sans' , sans-serif; margin-bottom: 2px;}
+input:focus { background: none; border: none;  }
+.input-contact { background: none; border: none;}
+
+/*----------------ABOUT PAGE-------------------*/
+
+
+.about-heading {font-family: 'Raleway' , sans-serif; font-size: 3rem; letter-spacing: 3px;}
+.about-para {font-family: 'Lato' , sans-serif; font-size: 0.8rem; letter-spacing: 1px; color: #121315;}
+
+.line-orange { width: 100%; height: 4px; background:#3a957d ;}
+.line-yellow { width: 50px; height: 4px; background:#f9e72f ;}
+
+.bg-feature-section { background: linear-gradient(rgba(0,0,0,0.8) , rgba(0,0,0,0.7)) ,  url('../images/logan-weaver-p0B7ueoZz8E-unsplash.jpg') center / cover fixed; width: 100%; height: 100vh;}
+
+.info-features svg { width: 20%; color: #fff !important;}
+
+.clients-section { background: linear-gradient(to bottom,#131416 , #1d1c1c); color: #fff;} 
+.client-opinion { background: #7e6b7a; width: 100%; height: 120px; border-radius: 18px;}
+.info-our-client img { width: 20%; height: 50%;}
+/*----------------END ABOUT PAGE-------------------*/
